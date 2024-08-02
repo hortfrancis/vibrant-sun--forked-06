@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabarito:wght@400..900&family=Martian+Mono:wght@100..800&display=swap');
+
+* {
+  font-family: "Martian Mono", monospace;
+  font-optical-sizing: auto;
+}
+
+body {
+  margin: 0;
+}
+
+.App {
+  /* font-family: sans-serif; */
+}
